@@ -3,4 +3,4 @@
 ## TODO
 - Web authentication & session
 - Oauth
-- Web proxy & API Gateway
+- Web proxy & API Gateway & SSL termintation
